@@ -31,6 +31,7 @@ menu = {
         "Burger Gà": 35000,
 
         "Bít tết Bò Mỹ": 250000,
+        "Bánh canh": 99000,
 
         "Sườn nướng BBQ": 150000,
 
